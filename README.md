@@ -103,8 +103,10 @@ A modular, scalable Flask-based Authentication, Authorization, and Accounting (A
 
 8. Dashboards
 
-   -  ![Admin](visuals/dashboard(admin).png)
-   -  ![User](visuals/Dashboard(user).png)
+   -  Admin
+     ![Admin](visuals/dashboard(admin).png)
+   -  User (Role-Based)
+     ![User](visuals/Dashboard(user).png)
 
 ---
 
