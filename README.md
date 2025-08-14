@@ -83,6 +83,25 @@ A modular, scalable Flask-based Authentication, Authorization, and Accounting (A
 
 ---
 
+## Visuals
+
+1. ![Login Page](content/login.png)
+
+2. ![Register Page](content/register.png)
+
+3. ![Admin Panel](content/AdminPanel(1).png)
+   ![Admin Panel](content/AdminPanel(2).png)
+   ![Admin Panel](content/AdminPanel(3).png)
+   ![Admin Panel](content/AdminPanel(5).png)
+   ![Admin Panel](content/AdminPanel_Dark.png)
+
+4. Dashboards
+
+   -  ![Admin](content/dashboard(admin).png)
+   -  ![User](content/Dashboard(user).png)
+
+---
+
 ## 👨‍💻 Author
 
 Developed by **Deeya Mathur**  
