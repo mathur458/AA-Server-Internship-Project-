@@ -85,17 +85,23 @@ A modular, scalable Flask-based Authentication, Authorization, and Accounting (A
 
 ## Visuals
 
-1. ![Login Page](visuals/login.png)
+1. Login Page
 
-2. ![Register Page](visuals/register.png)
+![Login Page](visuals/login.png)
 
-3. ![Admin Panel](visuals/AdminPanel(1).png)
+2. Register Page
+   
+![Register Page](visuals/register.png)
+
+4. Admin Panel
+   
+   ![Admin Panel](visuals/AdminPanel(1).png)
    ![Admin Panel](visuals/AdminPanel(2).png)
    ![Admin Panel](visuals/AdminPanel(3).png)
    ![Admin Panel](visuals/AdminPanel(5).png)
    ![Admin Panel](visuals/AdminPanel_Dark.png)
 
-4. Dashboards
+8. Dashboards
 
    -  ![Admin](visuals/dashboard(admin).png)
    -  ![User](visuals/Dashboard(user).png)
